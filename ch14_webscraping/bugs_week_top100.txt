@@ -1,0 +1,100 @@
+ 1: Dynamite/방탄소년단
+ 2: Bad Boy/청하
+ 3: 취기를 빌려 (취향저격 그녀 X 산들)/산들
+ 4: Tight/10CM
+ 5: 그리워하면 그댈 만날까봐/김나영
+ 6: 숲의 아이 (Bon voyage)/유아 (오마이걸)
+ 7: 밤새 (취향저격 그녀 X 카더가든)/카더가든
+ 8: Not Shy/ITZY (있지)
+ 9: Ice Cream (with Selena Gomez)/BLACKPINK
+10: When We Disco (Duet with 선미)/박진영
+11: 내 마음이 움찔했던 순간 (취향저격 그녀 X 규현)/규현 (KYUHYUN)
+12: 오래된 노래/스탠딩 에그(Standing Egg)
+13: 눈누난나 (NUNU NANA)/제시(Jessi)
+14: 에잇(Prod.&Feat. SUGA of BTS)/아이유(IU)
+15: 내일은 고백할게/태연 (TAEYEON)
+16: 마리아 (Maria)/화사(Hwa Sa)
+17: 나의 시간은/백현(BAEKHYUN)
+18: 덤디덤디 (DUMDi DUMDi)/(여자)아이들
+19: How You Like That/BLACKPINK
+20: Dolphin/오마이걸(OH MY GIRL)
+21: Blueming/아이유(IU)
+22: 다시 여기 바닷가/싹쓰리 (유두래곤, 린다G, 비룡)
+23: WANNA BE MYSELF(나는 안다르다)/마마무(Mamamoo)
+24: 홀로/이하이
+25: Holy (feat. Chance The Rapper)/Justin Bieber(저스틴 비버)
+26: 축하해 (Prod. By VAN.C)/오반 (OVAN)
+27: 흔들리는 꽃들 속에서 네 샴푸향이 느껴진거야/장범준
+28: 살짝 설렜어 (Nonstop)/오마이걸(OH MY GIRL)
+29: Downtown Baby/블루(BLOO)
+30: 12:45 (Stripped)/Etham
+31: 아로하/조정석
+32: 거짓말이라도 해서 널 보고싶어/백지영
+33: Memories/Maroon 5(마룬 파이브)
+34: 아틀란티스 소녀 (Atlantis Princess)/볼빨간사춘기
+35: 널 사랑했던 한 사람/펀치 (Punch)
+36: 작은 것들을 위한 시 (Boy With Luv) (Feat. Halsey)/방탄소년단
+37: Watermelon Sugar/Harry Styles(해리 스타일스)
+38: Sweet Love (취향저격 그녀 X Crush)/Crush
+39: 어떻게 이별까지 사랑하겠어, 널 사랑하는 거지/AKMU(악뮤)
+40: Dance Monkey/Tones And I
+41: 보라빛 밤 (pporappippam)/선미
+42: 어떻게 지내 (Prod. By VAN.C)/오반 (OVAN)
+43: 밤편지/아이유(IU)
+44: METEOR/창모(CHANGMO)
+45: Square (2017)/백예린 (Yerin Baek)
+46: 파도가 끝나는 곳까지/DAY6 (Even of Day)
+47: 모든 날, 모든 순간 (Every day, Every Moment)/폴킴(Paul Kim)
+48: 2002/Anne-Marie(앤 마리)
+49: 그 여름을 틀어줘/싹쓰리 (유두래곤, 린다G, 비룡)
+50: Psycho/Red Velvet (레드벨벳)
+51: Maniac/Conan Gray
+52: Don't Start Now/Dua Lipa(두아 리파)
+53: Love poem/아이유(IU)
+54: 사랑하게 될 줄 알았어/전미도
+55: Juice/Lizzo
+56: The Stealer/더보이즈(THE BOYZ)
+57: LALALILALA/에이프릴(APRIL)
+58: Into the I-LAND/아이유(IU)
+59: 밤하늘의 저 별처럼/헤이즈(Heize)
+60: 마음을 드려요/아이유(IU)
+61: PLAY (Feat. 창모)/청하
+62: 오래된 노래/임영웅
+63: Summer Hate (Feat. 비)/지코
+64: 늦은 밤 너의 집 앞 골목길에서/노을
+65: Stuck with U/Ariana Grande(아리아나 그란데)
+66: 좋은 사람 있으면 소개시켜줘/조이 (JOY)
+67: Criminal/태민 (TAEMIN)
+68: 주저하는 연인들을 위해/잔나비
+69: Obliviate/러블리즈(Lovelyz)
+70: 오늘도 빛나는 너에게 (To You My Light) (Feat.이라온)/마크툽(MAKTUB)
+71: 이제 나만 믿어요/임영웅
+72: 안녕/폴킴(Paul Kim)
+73: 사계 (Four Seasons)/태연 (TAEYEON)
+74: 시작/가호(Gaho)
+75: LINDA (Feat. 윤미래)/린다G
+76: 신난다 (Feat. 마마무)/비룡
+77: 아무노래/지코
+78: Painkiller/Ruel(루엘)
+79: WANNABE/ITZY (있지)
+80: Paris In The Rain/Lauv(라우브)
+81: 사랑은 지날수록 더욱 선명하게 남아/전상근
+82: 아직 너의 시간에 살아/이수현
+83: 화려하지 않은 고백/규현 (KYUHYUN)
+84: To Die For/Sam Smith(샘 스미스)
+85: Monster/레드벨벳-아이린&슬기
+86: Zombie/DAY6 (데이식스)
+87: FIESTA/IZ*ONE(아이즈원)
+88: What You Waiting For/전소미
+89: 별을 담은 시 (Ode To The Stars)/마크툽(MAKTUB)
+90: MORE & MORE/TWICE (트와이스)
+91: 나비와 고양이 (feat. 백현 (BAEKHYUN))/볼빨간사춘기
+92: HIP/마마무(Mamamoo)
+93: 너에게 난, 나에게 넌/미도와 파라솔
+94: OHIO/Crush
+95: 여름 안에서 by 싹쓰리 (Feat. 황광희)/싹쓰리 (유두래곤, 린다G, 비룡)
+96: 호랑이 (Tiger Inside)/SuperM
+97: 가을 아침/아이유(IU)
+98: WAP (feat. Megan Thee Stallion)/Cardi B(카디 비)
+99: 자각몽 (Abracadabra)/유아 (오마이걸)
+100: 처음처럼/엠씨더맥스 (M.C the MAX)
