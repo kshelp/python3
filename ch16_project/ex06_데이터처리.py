@@ -205,7 +205,8 @@ for k in range(12):
 
     # df_year에 df_month를 세로 방향으로 추가해서 다시 df_year에 할당
     # 통합된 dataFrame의 순서대로 index를 할당하기 위해서 `ignore_index = True` 옵션 지정
-    df_year = df_year.append(df_month, ignore_index=True)
+    # df_year =   pd.concat([df_month, df_year]) df_year = df_year.append(df_month, ignore_index=True)
+    df_year = pd.concat([df_month, df_year])
 
 print(df_year.head(2))
 '''
@@ -300,7 +301,8 @@ def select_columns_save_file(year, data_folder, drop_columns_list):
 
         # fd_year에 df_month를 새로 추가해서 다시 df_year에 할당
         # 통합된 adtaFrame의 순서대로 index를 할당하기 위해서 `ignore_index = True` 옵션 지정
-        df_year = df_year.append(df_month, ignore_index=True)
+        # df_year = df_year.append(df_month, ignore_index=True)
+        df_year =   pd.concat([df_month, df_year])
 
     df_year_drop = df_year.drop(columns=drop_columns_list)
     new_file_name = expense_list_year_dir + expense_list_tidy_file
